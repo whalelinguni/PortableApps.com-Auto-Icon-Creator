@@ -1,5 +1,5 @@
 # PortableApps.com-Auto-Icon-Creator
-PortableApps.com Automatic Icon Extractor and Builer Tool
+PortableApps.com Automatic Icon Extractor and Builder Tool Thing .Exe er .ps1
 
 Script will automaticlly extract the icon from an exe. 
 Create an and icon and png set for PortableApps.com launcher
