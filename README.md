@@ -8,3 +8,8 @@ Merge them into the portable apps directory
 Just run the script, and drag the main exe to the console window.
 Thats it.
 Well and press enter I guess.
+
+ehhh huh.
+something broke. fails on the first run, but works on the second. 
+Must be looking for something that gets created during the run.
+I'll look at it later. Maybe.
